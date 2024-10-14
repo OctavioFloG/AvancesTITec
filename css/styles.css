@@ -70,6 +70,7 @@ blog-bottom {
 .imagen-blog {
     width: 250px;
     height: 250px;
+    border-radius: 10px;
 }
 
 .separador {
@@ -124,4 +125,5 @@ blog-bottom {
     width: 24px;
     height: 24px;
     flex-shrink: 0;
+    padding-left: 15px;
 }
